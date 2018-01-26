@@ -1,0 +1,3 @@
+[submodule "fosdem2018/qrcodejs"]
+	path = fosdem2018/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
