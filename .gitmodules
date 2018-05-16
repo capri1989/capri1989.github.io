@@ -1,3 +1,9 @@
 [submodule "fosdem2018/qrcodejs"]
 	path = fosdem2018/qrcodejs
 	url = https://github.com/davidshimjs/qrcodejs.git
+[submodule "cephday-germany-feb2018/qrcodejs"]
+	path = cephday-germany-feb2018/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
+[submodule "clt-2018/qrcodejs"]
+	path = clt-2018/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
