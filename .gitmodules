@@ -7,3 +7,12 @@
 [submodule "clt-2018/qrcodejs"]
 	path = clt-2018/qrcodejs
 	url = https://github.com/davidshimjs/qrcodejs.git
+[submodule "cephday-london-2018/qrcodejs"]
+	path = cephday-london-2018/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
+[submodule "teqnation-2018/qrcodejs"]
+	path = teqnation-2018/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
+[submodule "osc-2018-ceph/qrcodejs"]
+	path = osc-2018-ceph/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
