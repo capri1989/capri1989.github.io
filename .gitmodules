@@ -16,3 +16,6 @@
 [submodule "osc-2018-ceph/qrcodejs"]
 	path = osc-2018-ceph/qrcodejs
 	url = https://github.com/davidshimjs/qrcodejs.git
+[submodule "osc-2018/qrcodejs"]
+	path = osc-2018/qrcodejs
+	url = https://github.com/davidshimjs/qrcodejs.git
