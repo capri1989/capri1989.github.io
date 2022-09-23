@@ -358,7 +358,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   }
 }
 .reveal-viewport {
-  background-image: url(/img/logo.jpg);
+  background-image: url(/percona-theme/img/logo.jpg);
   background-size: 10%;
   background-repeat: no-repeat;
   background-position: 96% 96%;
